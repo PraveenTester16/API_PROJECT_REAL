@@ -1,4 +1,4 @@
 package com.praveen.real.Tests.Integration;
 
-public class TC1 {
+public class TestE2E_TC1 {
 }
